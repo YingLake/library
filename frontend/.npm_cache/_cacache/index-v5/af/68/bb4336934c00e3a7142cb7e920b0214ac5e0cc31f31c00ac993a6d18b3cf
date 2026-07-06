@@ -1,0 +1,2 @@
+
+a930ae74e32b1fce5cc5d55f3c29b73ac0e04d85	{"key":"make-fetch-happen:request-cache:http://registry.npmmirror.com/@rollup%2frollup-linux-arm-musleabihf","integrity":null,"time":1783255882837,"size":"262","metadata":{"time":1783255882837,"url":"http://registry.npmmirror.com/@rollup%2frollup-linux-arm-musleabihf","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Sun, 05 Jul 2026 12:51:20 GMT","location":"https://registry.npmmirror.com/@rollup%2frollup-linux-arm-musleabihf"},"options":{"compress":true},"status":301}}

@@ -1,0 +1,2 @@
+
+e21e1533db7f2462726da2727fd5d8f20cd8c444	{"key":"make-fetch-happen:request-cache:http://registry.npmmirror.com/less","integrity":null,"time":1783255881192,"size":"262","metadata":{"time":1783255881192,"url":"http://registry.npmmirror.com/less","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Sun, 05 Jul 2026 12:51:18 GMT","location":"https://registry.npmmirror.com/less"},"options":{"compress":true},"status":301}}

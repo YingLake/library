@@ -1,0 +1,2 @@
+
+1504e74dcf6abb14530c97be472ae3b55619ae87	{"key":"make-fetch-happen:request-cache:http://registry.npmmirror.com/@esbuild%2fdarwin-arm64","integrity":null,"time":1783255882641,"size":"262","metadata":{"time":1783255882641,"url":"http://registry.npmmirror.com/@esbuild%2fdarwin-arm64","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Sun, 05 Jul 2026 12:51:19 GMT","location":"https://registry.npmmirror.com/@esbuild%2fdarwin-arm64"},"options":{"compress":true},"status":301}}

@@ -1,0 +1,2 @@
+
+1f64fc1034d548f7a152355f10899ca7d495ca34	{"key":"make-fetch-happen:request-cache:http://registry.npmmirror.com/@esbuild%2ffreebsd-arm64","integrity":null,"time":1783255882646,"size":"262","metadata":{"time":1783255882646,"url":"http://registry.npmmirror.com/@esbuild%2ffreebsd-arm64","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Sun, 05 Jul 2026 12:51:19 GMT","location":"https://registry.npmmirror.com/@esbuild%2ffreebsd-arm64"},"options":{"compress":true},"status":301}}

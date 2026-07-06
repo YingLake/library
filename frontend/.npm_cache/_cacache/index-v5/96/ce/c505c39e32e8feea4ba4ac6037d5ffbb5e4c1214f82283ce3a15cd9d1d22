@@ -1,0 +1,2 @@
+
+2c51e08acb32a737c98c8a57878feb172aa3c6af	{"key":"make-fetch-happen:request-cache:http://registry.npmmirror.com/postcss","integrity":null,"time":1783255881437,"size":"262","metadata":{"time":1783255881437,"url":"http://registry.npmmirror.com/postcss","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Sun, 05 Jul 2026 12:51:18 GMT","location":"https://registry.npmmirror.com/postcss"},"options":{"compress":true},"status":301}}

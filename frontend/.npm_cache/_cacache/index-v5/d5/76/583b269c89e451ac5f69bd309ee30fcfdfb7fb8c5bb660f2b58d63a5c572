@@ -1,0 +1,2 @@
+
+2787d7149eb4aa6450343464c5bfe395f961422c	{"key":"make-fetch-happen:request-cache:http://registry.npmmirror.com/@vue%2freactivity","integrity":null,"time":1783255883104,"size":"262","metadata":{"time":1783255883104,"url":"http://registry.npmmirror.com/@vue%2freactivity","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Sun, 05 Jul 2026 12:51:20 GMT","location":"https://registry.npmmirror.com/@vue%2freactivity"},"options":{"compress":true},"status":301}}

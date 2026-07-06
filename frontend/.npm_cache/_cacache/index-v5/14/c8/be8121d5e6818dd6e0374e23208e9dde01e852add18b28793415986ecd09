@@ -1,0 +1,2 @@
+
+188256f765e5aeab3a86546000e90ca7f0854bba	{"key":"make-fetch-happen:request-cache:http://registry.npmmirror.com/nanoid","integrity":null,"time":1783255882751,"size":"262","metadata":{"time":1783255882751,"url":"http://registry.npmmirror.com/nanoid","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Sun, 05 Jul 2026 12:51:20 GMT","location":"https://registry.npmmirror.com/nanoid"},"options":{"compress":true},"status":301}}

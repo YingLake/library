@@ -1,0 +1,2 @@
+
+5483346e52d37f75a7cd9f2e5ab814c691779549	{"key":"make-fetch-happen:request-cache:http://registry.npmmirror.com/stylus","integrity":null,"time":1783255881362,"size":"262","metadata":{"time":1783255881361,"url":"http://registry.npmmirror.com/stylus","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Sun, 05 Jul 2026 12:51:18 GMT","location":"https://registry.npmmirror.com/stylus"},"options":{"compress":true},"status":301}}

@@ -1,0 +1,2 @@
+
+9161098b5f26f81bd7fb368ea101cf745b1aacdc	{"key":"make-fetch-happen:request-cache:http://registry.npmmirror.com/has-tostringtag","integrity":null,"time":1783255882313,"size":"262","metadata":{"time":1783255882313,"url":"http://registry.npmmirror.com/has-tostringtag","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Sun, 05 Jul 2026 12:51:19 GMT","location":"https://registry.npmmirror.com/has-tostringtag"},"options":{"compress":true},"status":301}}
